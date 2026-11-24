@@ -6,8 +6,7 @@
 
 ## About me
 
-For the moment and until 7th June 2024, I'm in internship at [Semactic](https://semactic.com/en/) <br>
-I like front-end development. <br>
+For the moment, I'm a front-end developer at [Semactic](https://semactic.com/en/) <br>
 I'm passionate about pixel-perfect, beautiful interfaces and intuitively implemented UX which I also like to designate. <br>
 I love transforming a nice and intuitive design into a functional website. <br>
 
@@ -15,7 +14,7 @@ You can contact me at elodieali.pro@gmail.com
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-Currently I am not working on personnal projects due to my intership. But you can check my repositories where you can observe my learning curve at [Becode.org](https://becode.org/).
+Currently I am not working on personnal projects due to my job. But you can check my repositories where you can observe my learning curve at [Becode.org](https://becode.org/).
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
